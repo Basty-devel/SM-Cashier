@@ -21,7 +21,7 @@
 #  
 #  
 As former 3rd Level Supporter at GK Software SE the first project in PythonX was a bit familiar to me. It is far away from perfect but the GUI works and the project Supermarket Cashier is extensible in any direction..
-Logic is written in Python and the GUI is Tinkter. All crossplatform made. 
+Logic is written in Python and the GUI is Tinkter. All crossplatform made. Pi 4B ready with free open source OSs. 
 
 Unlock the Power of Efficient Collaboration with SM-Cashier on GitHub!
 
@@ -33,7 +33,7 @@ Why SM-Cashier?
 🛡️ Rock-Solid Security: Built with security at its core, SM-Cashier ensures your code is safe while maintaining complete control.
 🌐 Open Source Excellence: Collaborate with a vibrant community of contributors who are as passionate about innovation as you are.
 Key Highlights:
-📈 Scalable Performance which is crossplatform: Optimized for both small teams and enterprise-level projects, ensuring reliability at any scale.
+📈 Scalable Performance which is crossplatform: Optimized for both small teams and enterprise-level projects, ensuring reliability at any scale. It runs on Debian and was tested on a Raspberry Pi 4B, which means no license costs for Software and pretty less for hardware.
 ⏱️ Time-Saving Automation: Automate repetitive tasks, minimize errors, and maximize efficiency.
 💬 Active Community Support: Join a thriving ecosystem of users and contributors who are ready to collaborate, solve problems, and innovate together.
 
