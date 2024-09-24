@@ -1,25 +1,7 @@
-# SM-Cashier
-#
-#  cashier.py and cashier.sh
-#  
-#  Copyright 2024  <snestler@raspberrypi>
-#  
-#  This program is free software; you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation; either version 2 of the License, or
-#  (at your option) any later version.
-#  
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-#  
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-#  MA 02110-1301, USA.
-#  
-#  
+#Get Involved!
+#Whether you're a seasoned developer or just starting out, SM-Cashier provides you with the base, flexibility, and power to build something amazing. Fork it, star it, and contribute today—because together, we build better.
+
+
 As former 3rd Level Supporter at GK Software SE the first project in PythonX was a bit familiar to me. It is far away from perfect but the GUI works and the project Supermarket Cashier is extensible in any direction..
 Logic is written in Python and the GUI is Tinkter. All crossplatform made. Pi 4B ready with free open source OSs. 
 
