@@ -21,7 +21,21 @@
 #  
 #  
 As former 3rd Level Supporter at GK Software SE the first project in PythonX was a bit familiar to me. It is far away from perfect but the GUI works and the project Supermarket Cashier is extensible in any direction..
-Logic is written in Python and the GUI is Tinkter. All crossplatform made. Feel free to add functionality like VAT.
+Logic is written in Python and the GUI is Tinkter. All crossplatform made. 
+
+Unlock the Power of Efficient Collaboration with SM-Cashier on GitHub!
+
+Welcome to SM-Cashier, your ultimate tool for retail software. Built with passion and precision, SM-Cashier streamlines in calculating prices, discounts, taxes or what ever You want. It is just the beginning and a solid base for further process, empowering developers and teams to achieve more with less effort.
+
+Why SM-Cashier?
+💡 Innovative Features: Leverage cutting-edge tools designed to boost productivity and enhance your workflow.
+⚙️ Seamless Integration: Effortlessly integrate with your favorite technologies and services to make your work smoother and faster.
+🛡️ Rock-Solid Security: Built with security at its core, SM-Cashier ensures your code is safe while maintaining complete control.
+🌐 Open Source Excellence: Collaborate with a vibrant community of contributors who are as passionate about innovation as you are.
+Key Highlights:
+📈 Scalable Performance which is crossplatform: Optimized for both small teams and enterprise-level projects, ensuring reliability at any scale.
+⏱️ Time-Saving Automation: Automate repetitive tasks, minimize errors, and maximize efficiency.
+💬 Active Community Support: Join a thriving ecosystem of users and contributors who are ready to collaborate, solve problems, and innovate together.
 
 
 Linux:
