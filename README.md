@@ -20,9 +20,16 @@
 #  MA 02110-1301, USA.
 #  
 #  
-As former 3rd Level Supporter at GK Software SE the first project in PythonX was a bit familiar to me. It is far away from perfect but the GUI works.
-Logic is written in Python and the GUI is Tinkter. Feel free to add functionality like VAT.
+As former 3rd Level Supporter at GK Software SE the first project in PythonX was a bit familiar to me. It is far away from perfect but the GUI works and the project Supermarket Cashier is extensible in any direction..
+Logic is written in Python and the GUI is Tinkter. All crossplatform made. Feel free to add functionality like VAT.
 
-I added a bash script that starts a virtual enviroment(to protect Your base system and installs the dependencies and starts the cashier.
-The command to start the script is bash cashier.sh. Afterclosing the GUI the venv is deactivated and You can go on as usual.
+
+Linux:
+
+The command to start the script in Linux is : bash cashier.sh . It start a virtual enviroment, checks and installs dependencies(Tinkter) and runs the cashier.py file. Afterclosing the GUI the venv is deactivated and You can go on as usual.
 Make sure You have saved all files in the same folder.
+
+MacOS & Windows:
+
+Tinkter comes with python per default on these OSs and it should work if python3 is regulary installed.
+Command: python3 cashier.py . (You do not need the Shellscript!)
